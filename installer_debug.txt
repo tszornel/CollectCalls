@@ -1,0 +1,511 @@
+Sat Oct 28 18:40:38 CEST 2006
+
+
+InstallAnywhere Variables:
+/=$prop.file.separator$
+:=$prop.path.separator$
+;=$prop.path.separator$
+\=$prop.file.separator$
+AT_EXEC_DAEMON_RUNNING=0
+AT_FULL_PATH_OF_LICENSE_FILE=C:\Documents and Settings\Toms\Moje dokumenty\aaa4
+AT_HAVE_LAST_INSTALL_LOCATION=false
+AT_HAVE_NOT_LAST_INSTALL_LOCATION=true
+AT_LAST_INSTALL_LOCATION=
+AT_LICENSE_CONTENT=-----BEGIN LICENSE FILE-----
+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
+-----END LICENSE FILE-----
+
+AT_LICENSE_FILE=aaa4
+AT_PACKAGE_READER_ERROR_DESCRIPTION=
+AT_PACKAGE_READER_HAS_CONFIG_PACKAGE=1
+AT_PACKAGE_READER_HAS_DUPLICATES=0
+AT_PACKAGE_READER_HAS_ERRORS=0
+AT_PACKAGE_READER_HAS_ONLY_PATCH_PACKAGES=0
+AT_PACKAGE_READER_NO_OF_PACKAGES=8
+AT_PACKAGE_READER_PATH_1=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\core
+AT_PACKAGE_READER_PATH_10=
+AT_PACKAGE_READER_PATH_11=
+AT_PACKAGE_READER_PATH_12=
+AT_PACKAGE_READER_PATH_13=
+AT_PACKAGE_READER_PATH_14=
+AT_PACKAGE_READER_PATH_15=
+AT_PACKAGE_READER_PATH_16=
+AT_PACKAGE_READER_PATH_17=
+AT_PACKAGE_READER_PATH_18=
+AT_PACKAGE_READER_PATH_19=
+AT_PACKAGE_READER_PATH_2=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\oam-client
+AT_PACKAGE_READER_PATH_20=
+AT_PACKAGE_READER_PATH_21=
+AT_PACKAGE_READER_PATH_22=
+AT_PACKAGE_READER_PATH_23=
+AT_PACKAGE_READER_PATH_24=
+AT_PACKAGE_READER_PATH_3=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\sip-ra
+AT_PACKAGE_READER_PATH_4=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\parlay-ra
+AT_PACKAGE_READER_PATH_5=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\sample-applications
+AT_PACKAGE_READER_PATH_6=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\apac
+AT_PACKAGE_READER_PATH_7=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\nsim
+AT_PACKAGE_READER_PATH_8=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\packages\documentation
+AT_PACKAGE_READER_PATH_9=
+AT_PACKAGES_TO_BE_INSTALLED=XWay Core (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;OAM Client (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;SIP Resource Adaptor (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;Parlay Resource Adaptor (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;Sample Applications (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;APac (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;NSim (v. 4.0.0.190)<br>&nbsp;&nbsp;&nbsp;&nbsp;Documentation (v. 4.0.0.190)
+AT_PATH_OF_LICENSE_FILE=C:\Documents and Settings\Toms\Moje dokumenty\
+AT_PRODUCT=Appium-XWay
+AT_SUGGESTED_USER_INSTALL_DIR=C:\Appium\Appium-XWay
+AT_USER_INSTALL_DIR_OCCUPIED=0
+CHOSEN_INSTALL_BUNDLE_1=Application
+CHOSEN_INSTALL_BUNDLE_LIST=Application
+CHOSEN_INSTALL_BUNDLE_NUM=1
+CHOSEN_INSTALL_SET=Full
+COMMA=,
+DESKTOP=C:\Documents and Settings\Toms\Pulpit
+DO_NOT_INSTALL=Do Not Install
+DOLLAR=$
+EMPTY_STRING=
+EXTRACTOR_DIR=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\windows\vm
+EXTRACTOR_EXECUTABLE=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\windows\vm\install_windows.exe
+FONTS=C:\WINDOWS\Fonts
+FREE_DISK_SPACE=7 303 684 kilobytes free.
+FREE_DISK_SPACE_BYTES=7478972416
+IA_CLASSPATH=
+IA_CUSTOM_CODE_ZIP_SIZE=1658203
+IA_INSTALLER_STATUS=SUCCESS
+INSTALL_DRIVE_ROOT=C:\
+INSTALL_SUCCESS=SUCCESS
+INSTALLER_LAUNCH_DIR=C:\Documents and Settings\Toms\Pulpit\WindowsXWay4.0Install\XWay\windows\vm
+INSTALLER_LOCALE=en
+INSTALLER_TEMP_DIR=C:\Documents and Settings\Toms\Ustawienia lokalne\Temp\4345.tmp
+INSTALLER_UI=SWING
+JAVA_DOT_HOME=C:\Appium\Appium-XWay\jreC:\Documents and Settings\Toms\Ustawienia lokalne\Temp\I1162053453\Windows\resource\jre
+JAVA_EXECUTABLE=C:\Appium\Appium-XWay\jreC:\Documents and Settings\Toms\Ustawienia lokalne\Temp\I1162053453\Windows\resource\jre\bin\java.exe
+JAVA_HOME=C:\Appium\Appium-XWay\jre
+JDK_HOME=
+lax.application.name=install
+lax.class.path=../InstallerData/IAClasses.zip;resource/jdglue.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+lax.generated.launcher.name=C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows\install.exe
+lax.installer.win32.internal.property.0=bin\java.exe
+lax.main.class=com.zerog.ia.installer.Main
+lax.main.method=main
+lax.nl.current.vm=resource\jre\bin\java.exe
+lax.nl.env.ALLUSERSPROFILE=C:\Documents and Settings\All Users
+lax.nl.env.allusersprofile=C:\Documents and Settings\All Users
+lax.nl.env.ant_home=C:\apache-ant-1.6.2
+lax.nl.env.ANT_HOME=C:\apache-ant-1.6.2
+lax.nl.env.APPDATA=C:\Documents and Settings\Toms\Dane aplikacji
+lax.nl.env.appdata=C:\Documents and Settings\Toms\Dane aplikacji
+lax.nl.env.CATALINA_HOME=C:\Tomcat 5.5
+lax.nl.env.catalina_home=C:\Tomcat 5.5
+lax.nl.env.CLIENTNAME=Console
+lax.nl.env.clientname=Console
+lax.nl.env.commonprogramfiles=C:\Program Files\Common Files
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files\Common Files
+lax.nl.env.computername=ACER
+lax.nl.env.COMPUTERNAME=ACER
+lax.nl.env.comspec=C:\WINDOWS\system32\cmd.exe
+lax.nl.env.COMSPEC=C:\WINDOWS\system32\cmd.exe
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\Documents and Settings\All Users
+lax.nl.env.exact_case.ANT_HOME=C:\apache-ant-1.6.2
+lax.nl.env.exact_case.APPDATA=C:\Documents and Settings\Toms\Dane aplikacji
+lax.nl.env.exact_case.CATALINA_HOME=C:\Tomcat 5.5
+lax.nl.env.exact_case.CLIENTNAME=Console
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files\Common Files
+lax.nl.env.exact_case.COMPUTERNAME=ACER
+lax.nl.env.exact_case.ComSpec=C:\WINDOWS\system32\cmd.exe
+lax.nl.env.exact_case.FP_NO_HOST_CHECK=NO
+lax.nl.env.exact_case.HOMEDRIVE=C:
+lax.nl.env.exact_case.HOMEPATH=\Documents and Settings\Toms
+lax.nl.env.exact_case.JAVA_HOME=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.env.exact_case.LOGONSERVER=\\ACER
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=1
+lax.nl.env.exact_case.OS=Windows_NT
+lax.nl.env.exact_case.Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Java\jdk1.5.0_01\bin;C:\apache-ant-1.6.2\bin;C:\Tomcat 5.5\bin;c:\
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=x86 Family 6 Model 13 Stepping 6, GenuineIntel
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.nl.env.exact_case.PROCESSOR_REVISION=0d06
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files
+lax.nl.env.exact_case.SESSIONNAME=Console
+lax.nl.env.exact_case.SystemDrive=C:
+lax.nl.env.exact_case.SystemRoot=C:\WINDOWS
+lax.nl.env.exact_case.TEMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.exact_case.TMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.exact_case.USERDOMAIN=ACER
+lax.nl.env.exact_case.USERNAME=Toms
+lax.nl.env.exact_case.USERPROFILE=C:\Documents and Settings\Toms
+lax.nl.env.exact_case.windir=C:\WINDOWS
+lax.nl.env.fp_no_host_check=NO
+lax.nl.env.FP_NO_HOST_CHECK=NO
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.env.homedrive=C:
+lax.nl.env.homepath=\Documents and Settings\Toms
+lax.nl.env.HOMEPATH=\Documents and Settings\Toms
+lax.nl.env.JAVA_HOME=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.env.java_home=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.env.LOGONSERVER=\\ACER
+lax.nl.env.logonserver=\\ACER
+lax.nl.env.NUMBER_OF_PROCESSORS=1
+lax.nl.env.number_of_processors=1
+lax.nl.env.os=Windows_NT
+lax.nl.env.OS=Windows_NT
+lax.nl.env.PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Java\jdk1.5.0_01\bin;C:\apache-ant-1.6.2\bin;C:\Tomcat 5.5\bin;c:\
+lax.nl.env.path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Java\jdk1.5.0_01\bin;C:\apache-ant-1.6.2\bin;C:\Tomcat 5.5\bin;c:\
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.processor_architecture=x86
+lax.nl.env.processor_identifier=x86 Family 6 Model 13 Stepping 6, GenuineIntel
+lax.nl.env.PROCESSOR_IDENTIFIER=x86 Family 6 Model 13 Stepping 6, GenuineIntel
+lax.nl.env.PROCESSOR_LEVEL=6
+lax.nl.env.processor_level=6
+lax.nl.env.processor_revision=0d06
+lax.nl.env.PROCESSOR_REVISION=0d06
+lax.nl.env.PROGRAMFILES=C:\Program Files
+lax.nl.env.programfiles=C:\Program Files
+lax.nl.env.SESSIONNAME=Console
+lax.nl.env.sessionname=Console
+lax.nl.env.systemdrive=C:
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.SYSTEMROOT=C:\WINDOWS
+lax.nl.env.systemroot=C:\WINDOWS
+lax.nl.env.temp=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.TEMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.tmp=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.TMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.USERDOMAIN=ACER
+lax.nl.env.userdomain=ACER
+lax.nl.env.username=Toms
+lax.nl.env.USERNAME=Toms
+lax.nl.env.USERPROFILE=C:\Documents and Settings\Toms
+lax.nl.env.userprofile=C:\Documents and Settings\Toms
+lax.nl.env.WINDIR=C:\WINDOWS
+lax.nl.env.windir=C:\WINDOWS
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.java.launcher.main.method=main
+lax.nl.java.option.additional=
+lax.nl.java.option.check.source=off
+lax.nl.java.option.java.heap.size.initial=16777216
+lax.nl.java.option.java.heap.size.max=50331648
+lax.nl.java.option.verify.mode=none
+lax.nl.valid.vm.list=J2 J1 MSJ MRJ
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.win32.microsoftvm.min.version=3167
+lax.nl.win32.service=false
+lax.resource.dir=Windows
+lax.stderr.redirect=
+lax.stdin.redirect=
+lax.stdout.redirect=
+lax.user.dir=.
+lax.version=5.5
+MAC_APPLE_MENU=
+MAC_CHEWABLE=
+MAC_CONTROL_PANELS=
+MAC_EXTENSIONS=
+MAC_PREFERENCES=
+MACX_DOCK=
+MACX_USER_APPLICATIONS=
+NULL=
+PRODUCT_ID=99b7e383-1ec9-11b2-ad40-f95c1415a615
+PRODUCT_NAME=Appium-XWay
+PRODUCT_VERSION_NUMBER=1.0.0.0
+PROGRAMS_DIR=C:\Program Files
+prop.awt.toolkit=sun.awt.windows.WToolkit
+prop.file.encoding=Cp1250
+prop.file.encoding.pkg=sun.io
+prop.file.separator=\
+prop.java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+prop.java.awt.printerjob=sun.awt.windows.WPrinterJob
+prop.java.class.path=C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\InstallerData\IAClasses.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows\resource\jdglue.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\InstallerData\Execute.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows\InstallerData\Execute.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\InstallerData\Resource1.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows\InstallerData\Resource1.zip;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\InstallerData;C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows\InstallerData;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\deploy.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\javaws.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\jce.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\jsse.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\plugin.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\rt.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\tools.jar;
+prop.java.class.version=49.0
+prop.java.endorsed.dirs=c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\endorsed
+prop.java.ext.dirs=c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\ext
+prop.java.home=c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre
+prop.java.io.tmpdir=C:\DOCUME~1\Toms\USTAWI~1\Temp\
+prop.java.library.path=C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows;.;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Java\jdk1.5.0_01\bin;C:\apache-ant-1.6.2\bin;C:\Tomcat 5.5\bin;c:\
+prop.java.runtime.name=Java(TM) 2 Runtime Environment, Standard Edition
+prop.java.runtime.version=1.5.0_08-b03
+prop.java.specification.name=Java Platform API Specification
+prop.java.specification.vendor=Sun Microsystems Inc.
+prop.java.specification.version=1.5
+prop.java.vendor=Sun Microsystems Inc.
+prop.java.vendor.url=http://java.sun.com/
+prop.java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport.cgi
+prop.java.version=1.5.0_08
+prop.java.vm.info=mixed mode
+prop.java.vm.name=Java HotSpot(TM) Client VM
+prop.java.vm.specification.name=Java Virtual Machine Specification
+prop.java.vm.specification.vendor=Sun Microsystems Inc.
+prop.java.vm.specification.version=1.0
+prop.java.vm.vendor=Sun Microsystems Inc.
+prop.java.vm.version=1.5.0_08-b03
+prop.line.separator=
+
+prop.os.arch=x86
+prop.os.name=Windows XP
+prop.os.version=5.1
+prop.path.separator=;
+prop.sun.arch.data.model=32
+prop.sun.boot.class.path=c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\rt.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\i18n.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\sunrsasign.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\jsse.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\jce.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\lib\charsets.jar;c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\classes
+prop.sun.boot.library.path=c:\docume~1\toms\ustawi~1\temp\i1162053453\windows\resource\jre\bin
+prop.sun.cpu.endian=little
+prop.sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86
+prop.sun.desktop=windows
+prop.sun.io.unicode.encoding=UnicodeLittle
+prop.sun.jnu.encoding=Cp1250
+prop.sun.management.compiler=HotSpot Client Compiler
+prop.sun.os.patch.level=Dodatek Service Pack 2
+prop.user.country=PL
+prop.user.dir=C:\DOCUME~1\Toms\USTAWI~1\Temp\I1162053453\Windows
+prop.user.home=C:\Documents and Settings\Toms
+prop.user.language=pl
+prop.user.name=Toms
+prop.user.timezone=Europe/Belgrade
+prop.user.variant=
+REQUIRED_DISK_SPACE_BYTES=73907307
+RESTART_NEEDED=NO
+SHORTCUT_NAME=Shortcut
+STARTUP=C:\Documents and Settings\Toms\Menu Start\Programy\Autostart
+SYSTEM=C:\WINDOWS\system32
+SYSTEM_DRIVE_ROOT=C:\
+TEMP_DIR=C:\Documents and Settings\Toms\Ustawienia lokalne\Temp
+TOTAL_REQUIRED_DISK_SPACE=166 165 kilobytes required.
+UNIX_OPT=
+UNIX_USER_HOME=C:\Documents and Settings\Toms
+UNIX_USR_BIN=
+UNIX_USR_LOCAL_BIN=
+USER_HOME=C:\Documents and Settings\Toms
+USER_INSTALL_DIR=C:\Appium\Appium-XWay
+USER_MAGIC_FOLDER_1=C:\Appium\Appium-XWay
+USER_MAGIC_FOLDER_10=
+USER_MAGIC_FOLDER_2=
+USER_MAGIC_FOLDER_3=
+USER_MAGIC_FOLDER_4=
+USER_MAGIC_FOLDER_5=
+USER_MAGIC_FOLDER_6=
+USER_MAGIC_FOLDER_7=
+USER_MAGIC_FOLDER_8=
+USER_MAGIC_FOLDER_9=
+USER_SHORTCUTS=C:\Documents and Settings\All Users\Menu Start\Programy\Appium-XWay
+WIN_COMMON_DESKTOP=C:\Documents and Settings\All Users\Pulpit
+WIN_COMMON_PROGRAMS_MENU=C:\Documents and Settings\All Users\Menu Start\Programy
+WIN_COMMON_START_MENU=C:\Documents and Settings\All Users\Menu Start
+WIN_COMMON_STARTUP=C:\Documents and Settings\All Users\Menu Start\Programy\Autostart
+WIN_PROGRAMS_MENU=C:\Documents and Settings\Toms\Menu Start\Programy
+WIN_QUICK_LAUNCH_BAR=C:\Documents and Settings\Toms\Application Data\Microsoft\Internet Explorer\Quick Launch\
+WIN_START_MENU=C:\Documents and Settings\Toms\Menu Start
+WIN_WINDOWS=C:\WINDOWS
+
+Java System Properties:
+-- listing properties --
+file.encoding.pkg=sun.io
+lax.user.dir=.
+lax.nl.env.HOMEPATH=\Documents and Settings\Toms
+lax.resource.dir=Windows
+lax.application.name=install
+lax.nl.env.TEMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+java.home=c:\docume~1\toms\ustawi~1\temp\i11620...
+lax.nl.env.programfiles=C:\Program Files
+lax.nl.env.PROCESSOR_REVISION=0d06
+lax.nl.env.exact_case.Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WIN...
+lax.nl.env.exact_case.CLIENTNAME=Console
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.env.exact_case.CATALINA_HOME=C:\Tomcat 5.5
+lax.nl.win32.microsoftvm.min.version=3167
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.OS=Windows_NT
+lax.main.class=com.zerog.ia.installer.Main
+java.endorsed.dirs=c:\docume~1\toms\ustawi~1\temp\i11620...
+lax.stderr.redirect=
+lax.nl.env.systemroot=C:\WINDOWS
+lax.nl.env.exact_case.SESSIONNAME=Console
+lax.nl.java.option.java.heap.size.max=50331648
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files
+lax.nl.env.PROGRAMFILES=C:\Program Files
+sun.os.patch.level=Dodatek Service Pack 2
+java.vendor.url=http://java.sun.com/
+lax.nl.env.ANT_HOME=C:\apache-ant-1.6.2
+java.version=1.5.0_08
+lax.nl.env.WINDIR=C:\WINDOWS
+lax.nl.env.exact_case.USERNAME=Toms
+lax.nl.java.option.verify.mode=none
+lax.nl.env.JAVA_HOME=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.win32.service=false
+lax.nl.env.logonserver=\\ACER
+java.vendor.url.bug=http://java.sun.com/cgi-bin/bugreport...
+lax.nl.java.option.check.source=off
+lax.nl.env.homepath=\Documents and Settings\Toms
+lax.nl.env.exact_case.windir=C:\WINDOWS
+lax.nl.env.COMSPEC=C:\WINDOWS\system32\cmd.exe
+user.name=Toms
+lax.nl.env.processor_architecture=x86
+sun.io.unicode.encoding=UnicodeLittle
+lax.nl.env.ALLUSERSPROFILE=C:\Documents and Settings\All Users
+sun.jnu.encoding=Cp1250
+java.runtime.name=Java(TM) 2 Runtime Environment, Stand...
+lax.nl.env.USERDOMAIN=ACER
+lax.nl.env.catalina_home=C:\Tomcat 5.5
+java.specification.name=Java Platform API Specification
+user.timezone=Europe/Belgrade
+path.separator=;
+file.encoding=Cp1250
+lax.nl.env.systemdrive=C:
+lax.nl.env.fp_no_host_check=NO
+lax.nl.env.USERNAME=Toms
+lax.nl.env.allusersprofile=C:\Documents and Settings\All Users
+lax.nl.env.processor_revision=0d06
+lax.nl.env.exact_case.SystemRoot=C:\WINDOWS
+lax.nl.env.ant_home=C:\apache-ant-1.6.2
+lax.version=5.5
+java.io.tmpdir=C:\DOCUME~1\Toms\USTAWI~1\Temp\
+lax.nl.env.username=Toms
+lax.nl.env.exact_case.COMPUTERNAME=ACER
+user.language=pl
+line.separator=
+
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.env.appdata=C:\Documents and Settings\Toms\Dane a...
+lax.nl.env.windir=C:\WINDOWS
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+java.vm.info=mixed mode
+lax.nl.env.exact_case.TMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.exact_case.USERPROFILE=C:\Documents and Settings\Toms
+lax.nl.java.launcher.main.method=main
+sun.desktop=windows
+java.vm.specification.name=Java Virtual Machine Specification
+lax.nl.current.vm=resource\jre\bin\java.exe
+lax.nl.env.exact_case.TEMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.os=Windows_NT
+lax.nl.env.PROCESSOR_IDENTIFIER=x86 Family 6 Model 13 Stepping 6, Gen...
+lax.nl.env.exact_case.ComSpec=C:\WINDOWS\system32\cmd.exe
+lax.nl.env.commonprogramfiles=C:\Program Files\Common Files
+lax.nl.env.SESSIONNAME=Console
+lax.nl.env.processor_identifier=x86 Family 6 Model 13 Stepping 6, Gen...
+lax.nl.env.clientname=Console
+lax.nl.env.SYSTEMROOT=C:\WINDOWS
+lax.nl.env.NUMBER_OF_PROCESSORS=1
+lax.nl.env.computername=ACER
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.stdout.redirect=
+lax.nl.env.exact_case.USERDOMAIN=ACER
+lax.nl.env.exact_case.HOMEDRIVE=C:
+os.name=Windows XP
+java.specification.vendor=Sun Microsystems Inc.
+lax.nl.env.CATALINA_HOME=C:\Tomcat 5.5
+java.vm.name=Java HotSpot(TM) Client VM
+lax.nl.env.exact_case.PROCESSOR_REVISION=0d06
+lax.nl.env.homedrive=C:
+java.library.path=C:\DOCUME~1\Toms\USTAWI~1\Temp\I11620...
+lax.nl.env.exact_case.SystemDrive=C:
+lax.generated.launcher.name=C:\DOCUME~1\Toms\USTAWI~1\Temp\I11620...
+java.class.version=49.0
+lax.nl.env.sessionname=Console
+lax.nl.env.exact_case.JAVA_HOME=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.nl.env.COMPUTERNAME=ACER
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.env.path=C:\WINDOWS\system32;C:\WINDOWS;C:\WIN...
+sun.boot.library.path=c:\docume~1\toms\ustawi~1\temp\i11620...
+lax.nl.env.number_of_processors=1
+sun.management.compiler=HotSpot Client Compiler
+lax.nl.env.PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WIN...
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+user.variant=
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.CLIENTNAME=Console
+lax.nl.env.TMP=C:\DOCUME~1\Toms\USTAWI~1\Temp
+lax.nl.env.exact_case.LOGONSERVER=\\ACER
+lax.nl.env.processor_level=6
+lax.class.path=../InstallerData/IAClasses.zip;resour...
+lax.nl.env.comspec=C:\WINDOWS\system32\cmd.exe
+lax.nl.env.USERPROFILE=C:\Documents and Settings\Toms
+lax.nl.env.tmp=C:\DOCUME~1\Toms\USTAWI~1\Temp
+java.vm.specification.version=1.0
+lax.main.method=main
+lax.nl.java.option.additional=
+lax.nl.env.java_home=C:\Program Files\Java\jdk1.5.0_01
+lax.nl.java.option.java.heap.size.initial=16777216
+awt.toolkit=sun.awt.windows.WToolkit
+lax.installer.win32.internal.property.0=bin\java.exe
+sun.cpu.isalist=pentium_pro+mmx pentium_pro pentium+m...
+java.ext.dirs=c:\docume~1\toms\ustawi~1\temp\i11620...
+os.version=5.1
+lax.nl.env.exact_case.OS=Windows_NT
+user.home=C:\Documents and Settings\Toms
+java.vm.vendor=Sun Microsystems Inc.
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files\Common Files
+lax.nl.env.exact_case.APPDATA=C:\Documents and Settings\Toms\Dane a...
+lax.stdin.redirect=
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files\Common Files
+user.dir=C:\DOCUME~1\Toms\USTAWI~1\Temp\I11620...
+lax.nl.valid.vm.list=J2 J1 MSJ MRJ
+sun.cpu.endian=little
+lax.nl.env.APPDATA=C:\Documents and Settings\Toms\Dane a...
+java.vm.version=1.5.0_08-b03
+java.class.path=C:\DOCUME~1\Toms\USTAWI~1\Temp\I11620...
+os.arch=x86
+lax.nl.env.userprofile=C:\Documents and Settings\Toms
+lax.nl.env.userdomain=ACER
+lax.nl.env.PROCESSOR_LEVEL=6
+lax.nl.env.exact_case.FP_NO_HOST_CHECK=NO
+lax.nl.env.exact_case.HOMEPATH=\Documents and Settings\Toms
+java.vm.specification.vendor=Sun Microsystems Inc.
+file.separator=\
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+java.runtime.version=1.5.0_08-b03
+sun.boot.class.path=c:\docume~1\toms\ustawi~1\temp\i11620...
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\Documents and Settings\All Users
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=x86 Family 6 Model 13 Stepping 6, Gen...
+user.country=PL
+lax.nl.env.FP_NO_HOST_CHECK=NO
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=1
+java.vendor=Sun Microsystems Inc.
+lax.nl.env.exact_case.ANT_HOME=C:\apache-ant-1.6.2
+lax.nl.env.LOGONSERVER=\\ACER
+lax.nl.env.temp=C:\DOCUME~1\Toms\USTAWI~1\Temp
+java.specification.version=1.5
+sun.arch.data.model=32

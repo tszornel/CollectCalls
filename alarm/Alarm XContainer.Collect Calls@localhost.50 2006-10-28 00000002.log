@@ -1,0 +1,5 @@
+
+2006-10-28 20.31.49 # Warning  # objectActive # Object active (new): StatusInfoAccess_Collect Calls@XContainer.Collect Calls@localhost.50 (reported by ObjectRegistry) #  # 514 # 81251060 # com.appium.impl.core.xee.XProcessImpl # localhost # XContainer.Collect Calls@localhost.50
+2006-10-28 20.31.53 # Warning  # systemEvent # Starting System Statistics... #  # 697 # 81251068 # com.appium.SystemInfo.SystemStatisticsModule # localhost # XContainer.Collect Calls@localhost.50
+2006-10-28 20.31.53 #  # error # Failed to load pl.ericpol.collectcalls.TelecomApplicationMain/CollectCalls # java.lang.NoClassDefFoundError: org/apache/log4j/Logger # 1740 # 81251082 # com.appium.impl.core.xee.XManagerImpl.virtual # localhost # XContainer.Collect Calls@localhost.50
+2006-10-28 20.31.53 #  # error # Error loading XHandler # java.lang.Exception: Failed to load pl.ericpol.collectcalls.TelecomApplicationMain/CollectCalls # 651 # 81251083 # com.appium.impl.core.xee.XManagerImpl.virtual.VirtualProcessImplMain # localhost # XContainer.Collect Calls@localhost.50

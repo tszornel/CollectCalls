@@ -1,0 +1,12 @@
+
+2006-11-08 21.35.32 # Warning  # objectActive # Object active (new): StatusInfoAccess_Default@NSim.Default@localhost.0 (reported by ObjectRegistry) #  # 514 # 82208868 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.35.36 # Warning  # systemEvent # Starting System Statistics... #  # 697 # 82208876 # com.appium.SystemInfo.SystemStatisticsModule # localhost # NSim.Default@localhost.0
+2006-11-08 21.35.45 # Warning  # systemEvent # Starting NSim... #  # 1239 # 82208899 # Gateway # localhost # NSim.Default@localhost.0
+2006-11-08 21.35.45 # Warning  # objectActive # Object activated: NSim.Default@localhost.0 (reported by ObjectRegistry) #  # 513 # 82208901 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.35.45 # Warning  # objectActive # Object active (new): ServiceUpdate_Default@NSim.Default@localhost.0 (reported by ObjectRegistry) #  # 514 # 82208902 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.08 # Warning  # objectOffline # Object offline: ServiceUpdate_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208908 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.12 # Warning  # objectOffline # Object offline: SessionBackupStore_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208909 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.12 # Warning  # objectOffline # Object offline: StatusInfoAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208910 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.12 # Warning  # objectOffline # Object offline: VoiceServerAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208911 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.12 # Warning  # objectOffline # Object offline: XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208912 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0
+2006-11-08 21.56.12 # Warning  # objectOffline # Object offline: XTransport_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) #  # 517 # 82208913 # com.appium.impl.core.xee.XProcessImpl # localhost # NSim.Default@localhost.0

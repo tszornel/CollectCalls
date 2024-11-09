@@ -1,0 +1,10 @@
+
+2006-11-04 19.07.16 # Warning  # objectActive # Object active (new): StatusInfoAccess_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) #  # 514 # 81854382 # com.appium.impl.core.xee.XProcessImpl # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.07.17 # Warning  # systemEvent # Starting System Statistics... #  # 697 # 81854391 # com.appium.SystemInfo.SystemStatisticsModule # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.07.20 # Warning  # systemEvent # Starting XTE... #  # 0 # 81854425 # com.appium.XTE.XTEModule # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.07.20 # Warning  # objectActive # Object active (new): ServiceUpdate_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) #  # 514 # 81854427 # com.appium.impl.core.xee.XProcessImpl # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.07.20 # Warning  # objectActive # Object activated: XContainer.XTE@localhost.0 (reported by ObjectRegistry) #  # 513 # 81854428 # com.appium.impl.core.xee.XProcessImpl # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.07.21 # Warning  # objectActive # Object active (new): SessionRegistry_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) #  # 514 # 81854430 # com.appium.impl.core.xee.XProcessImpl # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.42.51 #  # error # Set object pool size failed # java.lang.NullPointerException # 281 # 81854446 # com.appium.TAS.SessionContainer.ObjectPool # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.43.20 # Warning  # systemEvent # Initializing the parlay module #  # 0 # 81854448 # com.appium.XTE.ParlayModule # localhost # XContainer.XTE@localhost.0
+2006-11-04 19.43.20 #  # error # Got exception during setState # java.lang.NullPointerException # 652 # 81854449 # com.appium.impl.core.xee.XManagerImpl.XManagerImplMain # localhost # XContainer.XTE@localhost.0

@@ -1,0 +1,371 @@
+<TAS>
+   <common>
+      <alarms/>
+      <logging file="DEBUG" hideInternals="true" standardOutput="RUNTIME" tracer="RUNTIME">
+         <logpolicy dbgComp="true" dbgClass="true" multilineLog="true" outStack="true" javaCall="true" corbaCall="true"/>
+      </logging>
+      <statistics/>
+      <xsessions>
+         <session-registry distributedRegistry="OAMServer.Primary/session-distributed-registry"/>
+      </xsessions>
+      <config id="confirm.menu">
+         <property name="confirm.action.process_overview_stop.name" value="default"/>
+         <property name="confirm.action.process_overview_restart.name" value="default"/>
+         <property name="confirm.action.process_overview_deactivate.name" value="default"/>
+         <property name="confirm.action.process_overview_activate.name" value="default"/>
+         <property name="confirm.action.process_group_stop.name" value="default"/>
+         <property name="confirm.action.process_group_restart.name" value="default"/>
+         <property name="confirm.action.process_group_deactivate.name" value="default"/>
+         <property name="confirm.action.process_group_start.name" value="default"/>
+         <property name="confirm.action.process_group_commit.name" value="default"/>
+         <property name="confirm.action.process_group_remove.name" value="default"/>
+         <property name="confirm.action.remove_service.name" value="default"/>
+         <property name="license.menu" value="default"/>
+         <property name="sc.sl.service_list.menu" value="default"/>
+         <property name="oam.snmp_settings.menu" value="default"/>
+         <property name="ClassOfServiceConfig.menu" value="default"/>
+         <property name="ServiceProviderConfig.menu" value="default"/>
+         <property name="ProvisioningEntityDatabaseConfig.menu" value="default"/>
+         <property name="ProvisioningEntityClassesConfig.menu" value="default"/>
+         <property name="ProvisioningEntityConfig.menu" value="default"/>
+         <property name="distributor.framework.menu.OAMServer.Primary" value="default"/>
+         <property name="distributor.framework.menu.OAMServer.Secondary" value="default"/>
+         <property name="distributor.cc.menu" value="default"/>
+         <property name="distributor.mpcc.menu" value="default"/>
+         <property name="distributor.mmcc.menu" value="default"/>
+         <property name="sc.ss.service_selection.menu" value="default"/>
+         <property name="ImplementationSelectionConfig.menu" value="default"/>
+         <property name="ILC" value="default"/>
+         <property name="splash_weights.menu" value="default"/>
+         <property name="ILCAdmissionControllerConfig.menu" value="default"/>
+         <property name="WSAdmissionControllerConfig.menu" value="default"/>
+         <property name="LoadBalancingGroupConfig.menu" value="default"/>
+         <property name="distributor.ul.menu" value="default"/>
+         <property name="distributor.ulc.menu" value="default"/>
+         <property name="distributor.ui.menu" value="default"/>
+         <listitem>
+            <property name="confirm.message_id.name" value="default"/>
+            <property name="confirm.message_text.name" value="Warning! &lt;p&gt; This action may result in degraded performance and &lt;br&gt; maybe even complete loss of service. &lt;/p&gt; Are you sure?"/>
+         </listitem>
+      </config>
+      <config id="license.menu">
+         <properties>
+            <property name="license.expiry_months.name" value="2"/>
+            <property name="licence.license_contents.name" value="-----BEGIN LICENSE FILE-----&#10;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&#10;-----END LICENSE FILE-----&#10;"/>
+         </properties>
+         <children/>
+      </config>
+      <config id="basement.menu"/>
+      <config id="LinkSurveillance.menu"/>
+      <config id="versionhistory.menu"/>
+      <config id="oam.snmp_settings.menu"/>
+      <config id="LoadConfig.menu"/>
+      <config id="sessiontransport.menu"/>
+      <config id="serviceconfig.menu">
+         <listitem>
+            <property name="serviceconfig.services_name.name" value="User Location Camel"/>
+            <property name="serviceconfig.services_resource.name" value="NSIM"/>
+            <property name="serviceconfig.services_type.name" value="P_ULC_NSIM"/>
+         </listitem>
+         <listitem>
+            <property name="serviceconfig.services_name.name" value="MPCC"/>
+            <property name="serviceconfig.services_resource.name" value="NSIM"/>
+            <property name="serviceconfig.services_type.name" value="P_MPCC_NSIM"/>
+         </listitem>
+         <listitem>
+            <property name="serviceconfig.services_name.name" value="XTE UserStatus"/>
+            <property name="serviceconfig.services_resource.name" value="XTE"/>
+            <property name="serviceconfig.services_type.name" value="P_US_TCTESTGW"/>
+         </listitem>
+         <listitem>
+            <property name="serviceconfig.services_name.name" value="NSIM US"/>
+            <property name="serviceconfig.services_resource.name" value="NSIM"/>
+            <property name="serviceconfig.services_type.name" value="P_US_NSIM"/>
+         </listitem>
+      </config>
+      <config id="sc.sl.service_list.menu"/>
+      <config id="UserGroups.MENU"/>
+      <config id="AutoRestartConfig.menu">
+         <property name="AutoRestartConfig.enabled" value="false"/>
+      </config>
+      <config id="UserActionLog.menu"/>
+      <config id="ApplicationLogonBanner.menu"/>
+      <config id="framework.service_status.menu">
+         <listitem section="framework.service_status.primary_list.heading"/>
+         <listitem section="framework.service_status.primary_list.heading"/>
+         <listitem section="framework.service_status.primary_list.heading"/>
+         <listitem section="framework.service_status.primary_list.heading"/>
+         <listitem section="framework.service_status.primary_gw_Status_list.heading"/>
+         <listitem section="framework.service_status.primary_gw_Status_list.heading"/>
+      </config>
+      <config id="hosts.menu"/>
+   </common>
+   <users/>
+   <userroles_data_2>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
+pi6RY98lPE0uYl8gq6I=</userroles_data_2>
+   <graph isExpanded="yes" site-label="Collect Calls">
+      <coordinates>
+         <item id="OAMServer:Primary" x="4" y="27"/>
+         <item id="Site Settings" x="79" y="26"/>
+         <item id="XContainer:Collect Calls" x="26" y="207"/>
+         <item id="XContainer:XTE" x="566" y="115"/>
+         <item id="distributor.framework.menu.OAMServer.Primary/Parlay Gateway Definition/NSIM" x="363" y="57"/>
+         <item id="Distributor:Trrigering" x="248" y="39"/>
+         <item id="NSim:NSim" x="223" y="103"/>
+         <item id="NSim:Default" x="153" y="40"/>
+         <item id="multiquestion.pl.ericpol.collectcalls" x="213" y="132"/>
+         <item id="distributor.framework.menu.OAMServer.Primary/Parlay Gateway Definition/XTE" x="129" y="222"/>
+         <item id="multiquestion.User Location Camel" x="170" y="153"/>
+         <item id="multiquestion.MPCC" x="115" y="129"/>
+         <item id="XContainer:USTestApp" x="405" y="193"/>
+         <item id="XContainer:XTE Parlay" x="561" y="20"/>
+         <item id="serviceconfig.menu/Parlay Service/MPCC" x="363" y="78"/>
+         <item id="serviceconfig.menu/Parlay Service/User Location Camel" x="363" y="90"/>
+         <item id="multi-site-location" x="0" y="-6"/>
+         <item id="serviceconfig.menu/Parlay Service/XTE UserStatus" x="6" y="248"/>
+      </coordinates>
+      <group-connections>
+         <group id="OAMServer:Primary"/>
+         <group id="NSim:Default">
+            <port type="INITIAL_GW_CONTACT" content="appium://127.0.0.1:15000" isDefaultValue="false"/>
+            <port type="INITIAL_GW_CONTACT" content="appium://Acer:15000" isDefaultValue="false"/>
+            <port type="INITIAL_GW_CONTACT" content="appium://localhost:15000" isDefaultValue="true"/>
+         </group>
+         <group id="Distributor:Trrigering">
+            <cable type="ParlayService" content="MPCC" siteLocal="true"/>
+            <cable type="TelecomApplicationID" content="pl.ericpol.userStatus" siteLocal="true"/>
+         </group>
+         <group id="XContainer:Collect Calls">
+            <cable type="ParlayService" content="User Location Camel" siteLocal="true"/>
+         </group>
+         <group id="XContainer:XTE">
+            <port type="SIP_LISTENING_POINT" content="sipapp/127.0.0.1/5060" isDefaultValue="true"/>
+         </group>
+         <group id="XContainer:USTestApp">
+            <cable type="ParlayService" content="XTE UserStatus" siteLocal="true"/>
+            <port type="SIP_LISTENING_POINT" content="sipapp/127.0.0.1/5080" isDefaultValue="true"/>
+            <port type="TelecomApplicationID" content="pl.ericpol.userStatus" isDefaultValue="true"/>
+            <port type="process_with_vxml" content="XContainer.USTestApp@localhost.100" isDefaultValue="true"/>
+         </group>
+         <group id="XContainer:XTE Parlay"/>
+      </group-connections>
+   </graph>
+   <group id="Primary" type="OAMServer">
+      <main>
+         <children/>
+      </main>
+      <session-distributed-registry interface="com.appium.core.xee.XSessions$XSessionDistributedRegistry:session-distributed-registry"/>
+      <process-states active="true">
+         <process-state id="OAMServer.Primary" online="true" active="true"/>
+      </process-states>
+      <config id="oam.rmi_settings.menu"/>
+      <config id="distributor.cryptokey.menu.OAMServer.Primary"/>
+      <config id="distributor.framework.menu.OAMServer.Primary">
+         <listitem>
+            <property name="distributor.framework.gateway_name.name" value="NSIM"/>
+            <property name="distributor.framework.end_access_on_shutdown.name" value="true"/>
+            <property name="Properties#distributor.framework.ipinitial_url.name" value="appium://localhost:15000"/>
+            <choice name="distributor.framework.gateway_version.name" index="3"/>
+         </listitem>
+         <listitem>
+            <property name="distributor.framework.gateway_name.name" value="XTE"/>
+            <property name="Properties#distributor.framework.ipinitial_url.name" value="appium://localhost:14702"/>
+            <choice name="distributor.framework.gateway_version.name" index="3"/>
+         </listitem>
+      </config>
+   </group>
+   <auditReport-settings timeOfLastReport="1162058307578"/>
+   <group id="Collect Calls" type="XContainer">
+      <content-loader>
+         <component type="CollectCalls"/>
+      </content-loader>
+      <session-distributed-registry interface="com.appium.core.xee.XSessions$XSessionDistributedRegistry:session-distributed-registry"/>
+      <main>
+         <property name="exec_param.parlay_version.label" value=""/>
+         <choice name="exec_contol.startup_file_name" index="0"/>
+         <property name="exec_contol.index_range.label" value="50 - 99"/>
+         <listitem>
+            <property name="exec_contol.host_name.label" value="localhost"/>
+            <property name="exec_contol.nbr_of_processes.label" value="1"/>
+         </listitem>
+      </main>
+      <process-states active="true">
+         <process-state id="XContainer.Collect Calls@localhost.50" active="true" online="false"/>
+      </process-states>
+      <config id="sc.ss.service_selection.menu">
+         <property name="User Location Camel" value="User Location Camel"/>
+      </config>
+   </group>
+   <group id="XTE" type="XContainer">
+      <content-loader>
+         <component type="XTE Module Loader"/>
+         <library path="lib\xtecommon"/>
+      </content-loader>
+      <session-distributed-registry interface="com.appium.core.xee.XSessions$XSessionDistributedRegistry:session-distributed-registry"/>
+      <sip.stack.router outboundProxy="sipproxy:5060/UDP"/>
+      <module-loader>
+         <Module modulesXHandler="SIPModule"/>
+      </module-loader>
+      <process-states active="true">
+         <process-state id="XContainer.XTE@localhost.0" active="true" online="false"/>
+         <process-state id="XContainer.XTE@localhost.250" active="true" online="false"/>
+         <process-state id="XContainer.XTE@localhost.50" active="true" online="false"/>
+      </process-states>
+      <config id="Generate Traffic"/>
+      <config id="Session Initiators Config"/>
+      <xte-module-loader>
+         <Module modulesXHandler="SIPModule"/>
+      </xte-module-loader>
+      <main>
+         <property name="exec_param.parlay_version.label" value="lib\wrappers\Parlay32"/>
+         <choice name="exec_contol.startup_file_name" index="0"/>
+         <property name="exec_contol.index_range.label" value="50 - 99"/>
+         <listitem>
+            <property name="exec_contol.host_name.label" value="localhost"/>
+            <property name="exec_contol.nbr_of_processes.label" value="1"/>
+         </listitem>
+      </main>
+      <config id="SIP Scenarios Configuration">
+         <listitem section="SIP Scenarios">
+            <listitem section="REQUEST Message SIPURIs Configuration">
+               <property name="User" value="pp"/>
+               <property name="Host" value="localhost"/>
+               <property name="Port" value="5080"/>
+            </listitem>
+            <choice name="SIP Scenario" index="0"/>
+         </listitem>
+         <listitem section="SIP Scenarios">
+            <listitem section="ContentType Configuration"/>
+            <choice name="SIP Scenario" index="1"/>
+         </listitem>
+      </config>
+   </group>
+   <group id="Trrigering" type="Distributor">
+      <process-states active="true">
+         <process-state id="Distributor.Trrigering@localhost.0" active="true" online="false"/>
+      </process-states>
+      <config id="addtranslation.menu"/>
+      <config id="distributor.status.menu"/>
+      <config id="distributors.additional.menu"/>
+      <config id="distributor.cc.menu"/>
+      <config id="distributor.mmcc.menu"/>
+      <config id="distributor.mpcc.menu">
+         <listitem>
+            <property name="distributors.cc.call_control_service.name" value="MPCC"/>
+            <listitem>
+               <property name="distributors.cc.app_id.label" value="pl.ericpol.userStatus"/>
+            </listitem>
+         </listitem>
+      </config>
+      <config id="distributor.ui.menu"/>
+      <config id="distributor.ul.menu"/>
+      <config id="distributor.ulc.menu"/>
+   </group>
+   <group type="NSim" id="Default">
+      <process-states active="true">
+         <process-state id="NSim.Default@localhost.0" active="true" online="false"/>
+      </process-states>
+   </group>
+   <Database>
+      <section id="CallControl.Distributor.Trrigering@localhost.0"/>
+      <section id="MultiPartyCallControl.Distributor.Trrigering@localhost.0">
+         <listitem>
+            <property name="serviceID" value="NSIM:P_MPCC_NSIM[0]"/>
+            <property name="iorChecksum" value="bec45a7b04cf26d03dd30b724b32da9e"/>
+            <listitem>
+               <property name="origAddrPlan" value="5"/>
+               <property name="origAddr" value="*"/>
+               <property name="origSubAddr" value=""/>
+               <property name="termAddrPlan" value="5"/>
+               <property name="termAddr" value="1234"/>
+               <property name="termSubAddr" value=""/>
+               <property name="eventType" value="4"/>
+               <property name="monitorMode" value="0"/>
+               <property name="assignmentID" value="1"/>
+               <property name="status" value="distributors.cc.trigger.reenabled.info"/>
+               <property name="timestamp" value="1162657198390"/>
+               <property name="appID" value="pl.ericpol.userStatus"/>
+               <property name="addCallEventCriteria" value="NULL"/>
+            </listitem>
+         </listitem>
+      </section>
+      <Framework>
+         <section id="OAMServer.Primary">
+            <Services>
+               <ServiceData serviceId="XTE:P_ULC_TCTESTGW" iorString="" parlayVersion="Parlay32" serviceToken="" fwServiceID=""/>
+               <ServiceData serviceId="XTE:P_US_TCTESTGW" iorString="" parlayVersion="Parlay32" serviceToken="" fwServiceID=""/>
+               <ServiceData serviceId="XTE:P_USER_STATUS" iorString="" parlayVersion="Parlay32" serviceToken="" fwServiceID=""/>
+            </Services>
+            <Objects/>
+         </section>
+      </Framework>
+   </Database>
+   <group id="USTestApp" type="XContainer">
+      <content-loader>
+         <component type="Telecom Application Loader"/>
+      </content-loader>
+      <session-distributed-registry interface="com.appium.core.xee.XSessions$XSessionDistributedRegistry:session-distributed-registry"/>
+      <jain-sip-stack listeningPort="5080"/>
+      <sip.stack.router outboundProxy="sipproxy:5060/UDP"/>
+      <telecom-application-loader application="UserStatusTestApp" loadClassicSessionComponents="true" multiPartyCallControlMapping="Multi Party Call Control - SIP" userInteractionMapping="User Interaction - SIP - Legacy"/>
+      <userstatustestapp requests="1"/>
+      <process-states active="true">
+         <process-state id="XContainer.USTestApp@localhost.0" active="true"/>
+         <process-state id="XContainer.USTestApp@localhost.50" active="true" online="false"/>
+         <process-state id="XContainer.USTestApp@localhost.100" active="true" online="false"/>
+      </process-states>
+      <main>
+         <property name="exec_param.parlay_version.label" value="lib\wrappers\Parlay32"/>
+         <choice name="exec_contol.startup_file_name" index="0"/>
+         <property name="exec_contol.index_range.label" value="100 - 149"/>
+         <listitem>
+            <property name="exec_contol.host_name.label" value="localhost"/>
+            <property name="exec_contol.nbr_of_processes.label" value="1"/>
+         </listitem>
+      </main>
+      <config id="vxml_config.vxmlconfig.menu"/>
+      <config id="sc.ss.service_selection.menu">
+         <property name="User Location Camel" value="-"/>
+         <property name="scss.user_status.name" value="XTE UserStatus"/>
+         <property name="scss.cc.name" value="-"/>
+         <property name="scss.vxml.name" value="false"/>
+         <property name="ss.ui_user_interaction.name" value="-"/>
+      </config>
+      <config id="session.container.menu"/>
+   </group>
+   <group id="XTE Parlay" type="XContainer">
+      <content-loader>
+         <component/>
+         <library path="lib/xtecommon"/>
+      </content-loader>
+      <session-distributed-registry interface="com.appium.core.xee.XSessions$XSessionDistributedRegistry:session-distributed-registry"/>
+      <process-states active="true">
+         <process-state id="XContainer.XTE Parlay@localhost.0" active="true" online="false"/>
+      </process-states>
+   </group>
+</TAS>

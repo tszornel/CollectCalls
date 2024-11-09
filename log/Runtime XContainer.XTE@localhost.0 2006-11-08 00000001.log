@@ -1,0 +1,256 @@
+
+# 2006-11-08 21.28.31 # com.appium.impl.core.xee.Bootstrap                                                         # Info      # ========== Process starting ========== # 
+# 2006-11-08 21.28.39 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XCryptoImpl.XCryptoImplMain (2781 ms) # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XCorbaImpl.XCorbaImplMain/corba (828 ms) # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XContextImpl.XContextImplMain (0 ms) # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XRunnerImpl.XRunnerImplMain/Registration Thread Pool (16 ms) # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.type: XContainer # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.group: XTE # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.processID: XContainer.XTE@localhost.0 # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.index: 0 # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.OAMServerAddress (supplied): Acer # 
+# 2006-11-08 21.28.40 # com.appium.impl.core.xee.XProcessImpl.XProcessImplMain                                     # Info      # XProcess.OAMServerAddress (complete): Acer:20000 # 
+# 2006-11-08 21.28.41 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # RegistrationHandler created for Acer:20000 # 
+# 2006-11-08 21.28.41 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # RegistrationHandler started for Acer:20000 # 
+# 2006-11-08 21.28.41 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XProcessImpl.XProcessImplMain (547 ms) # 
+# 2006-11-08 21.28.41 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registration available on: Acer:20000 # 
+# 2006-11-08 21.28.41 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: XContainer on Acer:20000 # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): Framework_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Starting Process Surveillance Thread for OAMServer.Primary # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): GraphDataEventReceiver_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): ServiceUpdate_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): StatusInfoAccess_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): TraceReceiver_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object online (new): XContainer.XTE@localhost.0 (inactive, reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Starting Process Surveillance Thread for XContainer.XTE@localhost.0 # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): XNodeDatabase_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): XTransport_Primary@OAMServer.Primary (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.42 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XTransportImpl.XTransportImplMain (1469 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XFileImpl.XSynchronizedFileImpl/TASxml (16 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XConfigImpl.XConfigImplMain/xconfig (0 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XProcessImpl.XProcessConfigurator/xprocess-configurator (0 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Basement.Registry.LegacyRegistryToXEEAdaptor (31 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Basement.Registry.OAM.ConfigXMLEditorBackendProviderImpl (0 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XSessionsImpl.e/session-distributed-registry (63 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XSessionsImpl.a/basic-session-id-handler (0 ms) # 
+# 2006-11-08 21.28.43 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XSessionsImpl.XSessionsImplMain/xsessions (0 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] license.menu # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Basement.XNodeConfig.XEEXNodesXHandler (0 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] basement.menu # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] LinkSurveillance.menu # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] versionhistory.menu # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Registry.RegistryPlatformModule (1188 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XView.Server.Backend.LogFileMarkerInserter$Impl/logfile-marker-inserter (0 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.ExecDaemon.Client.ExecDaemonMonitor (0 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Monitoring.Alarm.d/alarm-info (16 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Monitoring.Alarm.AlarmLog/alarms (125 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Monitoring.StatusInfo.a/status-info (15 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Monitoring.Log.LogImplMain/logging (78 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.Monitoring.Statistics.StatisticsImplMain/statistics (32 ms) # 
+# 2006-11-08 21.28.44 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] lib\wrappers\Kannel/com.appium.ResourceAdaptor.Wrappers.ResourceAdaptor/Kannel (16 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] lib\wrappers\OMA/com.appium.ResourceAdaptor.Wrappers.ResourceAdaptor/OMA (0 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] lib\wrappers\OSAX/com.appium.ParlayAdaptor.Wrappers.OSAX.ParlayAdaptor/OSAX (0 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: XTransport on Acer:20000 # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: StatusInfoAccess on Acer:20000 # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): StatusInfoAccess_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): XTransport_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.45 # com.appium.Monitoring.Log.DebugLog                                                         # Info      # Purging Debug log files before 2006-11-06 21:28:45 # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.CoreImpl.LoadEstimationFactoryImpl (0 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.ParlayAdaptor.Wrappers.ParlayAdaptor/Parlay213 (16 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.ParlayAdaptor.Wrappers.ParlayAdaptor/Parlay31 (0 ms) # 
+# 2006-11-08 21.28.45 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.ParlayAdaptor.Wrappers.ParlayAdaptor/Parlay32 (0 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.ResourceAdapterLoader.ResourceAdapterPlatformModule (125 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.SNMP.a/snmp (31 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.SystemInfo.ProcessInfoModule (94 ms) # 
+# 2006-11-08 21.28.46 # com.appium.SystemInfo.SystemStatisticsModule                                               # Event     # Starting System Statistics... # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.SystemInfo.SystemStatisticsModule (31 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.StaticRateAdaptor.StaticRateAdaptorFactory (0 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.LoadLevelRateAdaptor.LoadLevelRateAdaptorFactory (16 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.LeakyBucketRateRestrictor2.LeakyBucketRRFactory (0 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.CoreImpl.LoadConfigImpl (47 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.RateControl.RateManager (0 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] sessiontransport.menu # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] serviceconfig.menu # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] sc.sl.service_list.menu # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.TAS.TASPlatformModule (47 ms) # 
+# 2006-11-08 21.28.46 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.ContentLoaderImpl.ContentLoaderImplMain/content-loader (0 ms) # 
+# 2006-11-08 21.28.50 # com.appium.IMS.SIP                                                                         # Warning   # Could not add system default DNS to round robin list used for outgoing SIP requests. # 
+# 2006-11-08 21.28.50 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.IMS.SIP.JainSIPDefaultRouter/sip.stack.router (3547 ms) # 
+# 2006-11-08 21.28.50 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.ws.control.RateControlImpl.LeakyBucketImplMain$FactoryImpl/Leaky Bucket factory (0 ms) # 
+# 2006-11-08 21.28.50 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.IMS.SIP.JainSIPListener/sip.stack.listener (16 ms) # 
+# 2006-11-08 21.28.50 # com.appium.IMS.SIP.ColinSIPStackImpl                                                       # Info      # Initializing the SIP stack. Listening for SIP events on port 5060 # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.IMS.SIP.ColinSIPStackImpl/Jain SIP Stack (938 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.ResultHandler.Accessor.DisabledResultHandlerAccessor/Disabled (0 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.ResultHandler.ResultHandlerModule/ResultHandlerModule (15 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.IMS.SIP.ext.IMSJainSIPFactory/IMS Jain SIP Impl (15 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.SIPInitModule/SIPInitModule (297 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.IMS.SDPImpl.SDPImplMain (0 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] SIP Scenarios Configuration # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.SIPModule/SIPModule (31 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.impl.core.xee.XRunnerImpl.XRunnerImplMain/XTE Thread Pool (31 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.SessionGenerator/SessionGenerator (31 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] Generate Traffic # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [Secret XNode Registration] Session Initiators Config # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.XTEModule/XTE (125 ms) # 
+# 2006-11-08 21.28.51 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler Loaded] com.appium.XTE.ModuleLoaderImpl/XTE Module Loader (0 ms) # 
+# 2006-11-08 21.28.51 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] license.menu # 
+# 2006-11-08 21.28.52 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] basement.menu # 
+# 2006-11-08 21.28.52 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] LinkSurveillance.menu # 
+# 2006-11-08 21.28.52 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] versionhistory.menu # 
+# 2006-11-08 21.28.52 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] oam.snmp_settings.menu # 
+# 2006-11-08 21.28.54 # com.appium.SNMP.Agent                                                                      # Info      # SNMP Agent listening on port 1966 # 
+# 2006-11-08 21.28.54 # com.appium.SNMP.Agent                                                                      # Info      # Successfully initialized the SNMP Agent # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] LoadConfig.menu # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] sessiontransport.menu # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] serviceconfig.menu # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] sc.sl.service_list.menu # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] SIP Scenarios Configuration # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] Generate Traffic # 
+# 2006-11-08 21.28.54 # com.appium.Basement.XNodeConfig.XEEXNodesXHandler                                          # Info      # [Commit XNode] Session Initiators Config # 
+# 2006-11-08 21.28.54 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: ServiceUpdate on Acer:20000 # 
+# 2006-11-08 21.28.54 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): ServiceUpdate_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.54 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object activated: XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.28.55 # com.appium.XTE.XTEModule                                                                   # Info      # Initialize Object Pool # 
+# 2006-11-08 21.28.56 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: SessionBackupStore on Acer:20000 # 
+# 2006-11-08 21.28.56 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): SessionBackupStore_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.29.01 # com.appium.XTE.XTEModule                                                                   # Event     # Starting XTE... # 
+# 2006-11-08 21.29.01 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registering object: SessionRegistry on Acer:20000 # 
+# 2006-11-08 21.29.01 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): SessionRegistry_XTE@XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.impl.core.xee.XRunnerImpl.XRunnerImplMain/Registration Thread Pool (15 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.impl.core.xee.XProcessImpl.XProcessConfigurator/xprocess-configurator (16 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.impl.core.xee.XSessionsImpl.XSessionsImplMain/xsessions (0 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.Monitoring.Alarm.AlarmLog/alarms (16 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.Monitoring.Log.LogImplMain/logging (15 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.Monitoring.Statistics.StatisticsImplMain/statistics (0 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # Setting attribute outboundProxy default value: sipproxy:5060/UDP # 
+# 2006-11-08 21.31.30 # com.appium.IMS.SIP                                                                         # Warning   # Could not add system default DNS to round robin list used for outgoing SIP requests. [*2] # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.IMS.SIP.JainSIPDefaultRouter/sip.stack.router (0 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.IMS.SIP.JainSIPListener/sip.stack.listener (0 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler verified and reconfigured] com.appium.IMS.SIP.ColinSIPStackImpl/Jain SIP Stack (16 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.XTE.ResultHandler.ResultHandlerModule/ResultHandlerModule (0 ms) # 
+# 2006-11-08 21.31.30 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.XTE.SIPInitModule/SIPInitModule (16 ms) # 
+# 2006-11-08 21.31.31 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.impl.core.xee.XRunnerImpl.XRunnerImplMain/XTE Thread Pool (0 ms) # 
+# 2006-11-08 21.31.31 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.XTE.SessionGenerator/SessionGenerator (0 ms) # 
+# 2006-11-08 21.31.31 # com.appium.XTE.XTEModule                                                                   # Info      # Changing the objectPoolSize to: 10000 # 
+# 2006-11-08 21.31.31 # com.appium.impl.core.xee.XManagerImpl.virtual                                              # Info      # [XHandler reconfigured] com.appium.XTE.XTEModule/XTE (46 ms) # 
+# 2006-11-08 21.31.56 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object online (new): XContainer.USTestApp@localhost.50 (inactive, reported by ObjectRegistry) # 
+# 2006-11-08 21.31.56 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Starting Process Surveillance Thread for XContainer.USTestApp@localhost.50 # 
+# 2006-11-08 21.31.56 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): XTransport_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.31.59 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): StatusInfoAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.32.09 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): VoiceServerAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.32.10 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): ServiceUpdate_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.32.11 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): SessionBackupStore_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.33.02 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object activated: XContainer.USTestApp@localhost.50 (reported by Surveillance  ) # 
+# 2006-11-08 21.35.25 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object online (new): NSim.Default@localhost.0 (inactive, reported by ObjectRegistry) # 
+# 2006-11-08 21.35.27 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Starting Process Surveillance Thread for NSim.Default@localhost.0 # 
+# 2006-11-08 21.35.27 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): XTransport_Default@NSim.Default@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.35.32 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): StatusInfoAccess_Default@NSim.Default@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.35.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object activated: NSim.Default@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.35.45 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object active (new): ServiceUpdate_Default@NSim.Default@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.37.12 # com.appium.XTE.Config.RequestConfig                                                        # Error     # failed to set Header  - InvocationTargetException # 
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.appium.XTE.Monitors.SIPMonitor.setRequestSIPURI(Unknown Source)
+	at com.appium.XTE.Config.RequestConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.setRootXNode2(Unknown Source)
+	at com.appium.XTE.Config.UACConfig.configUpdated(Unknown Source)
+	at com.appium.XTE.Config.SIPScenariosConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke_commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke(Unknown Source)
+	at com.ooc.OBPortableServer.ServantDispatcher.dispatch(ServantDispatcher.java:211)
+	at com.ooc.OBPortableServer.POA_impl._OB_dispatch(POA_impl.java:1741)
+	at com.ooc.OB.DispatchRequest_impl.invoke(DispatchRequest_impl.java:52)
+	at com.ooc.OB.ThreadPool$Dispatcher.run(ThreadPool.java:47)
+Caused by: java.text.ParseException: sip:pp@: Illegal Host name 
+	at com.appium.impl.colin.javax.sip.c.b.createSipURI(Unknown Source)
+	at com.appium.XTE.SessionHandlers.JainSIPRequest.setRequestURI(Unknown Source)
+	... 19 more
+
+# 2006-11-08 21.51.55 # com.appium.XTE.Config.RequestConfig                                                        # Error     # failed to set Header  - InvocationTargetException # 
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.appium.XTE.Monitors.SIPMonitor.setRequestSIPURI(Unknown Source)
+	at com.appium.XTE.Config.RequestConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.setRootXNode2(Unknown Source)
+	at com.appium.XTE.Config.UACConfig.configUpdated(Unknown Source)
+	at com.appium.XTE.Config.SIPScenariosConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke_commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke(Unknown Source)
+	at com.ooc.OBPortableServer.ServantDispatcher.dispatch(ServantDispatcher.java:211)
+	at com.ooc.OBPortableServer.POA_impl._OB_dispatch(POA_impl.java:1741)
+	at com.ooc.OB.DispatchRequest_impl.invoke(DispatchRequest_impl.java:52)
+	at com.ooc.OB.ThreadPool$Dispatcher.run(ThreadPool.java:47)
+Caused by: java.text.ParseException: sip:pp@: Illegal Host name 
+	at com.appium.impl.colin.javax.sip.c.b.createSipURI(Unknown Source)
+	at com.appium.XTE.SessionHandlers.JainSIPRequest.setRequestURI(Unknown Source)
+	... 19 more
+
+# 2006-11-08 21.52.43 # com.appium.SystemInfo.ProcessInfo                                                          # Warning   # Could not find local ExecDaemon # 
+# 2006-11-08 21.54.27 # com.appium.XTE.Config.RequestConfig                                                        # Error     # failed to set Header  - InvocationTargetException # 
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.appium.XTE.Monitors.SIPMonitor.setRequestSIPURI(Unknown Source)
+	at com.appium.XTE.Config.RequestConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.setRootXNode2(Unknown Source)
+	at com.appium.XTE.Config.UACConfig.configUpdated(Unknown Source)
+	at com.appium.XTE.Config.SIPScenariosConfig.configUpdated(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.manualCommit(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.XNodeConfig.XNodeConfigObject.commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke_commitChanges(Unknown Source)
+	at com.appium.Basement.Def.XNodeConfigInterfacePOA._invoke(Unknown Source)
+	at com.ooc.OBPortableServer.ServantDispatcher.dispatch(ServantDispatcher.java:211)
+	at com.ooc.OBPortableServer.POA_impl._OB_dispatch(POA_impl.java:1741)
+	at com.ooc.OB.DispatchRequest_impl.invoke(DispatchRequest_impl.java:52)
+	at com.ooc.OB.ThreadPool$Dispatcher.run(ThreadPool.java:47)
+Caused by: java.text.ParseException: sip:pp@: Illegal Host name 
+	at com.appium.impl.colin.javax.sip.c.b.createSipURI(Unknown Source)
+	at com.appium.XTE.SessionHandlers.JainSIPRequest.setRequestURI(Unknown Source)
+	... 19 more
+
+# 2006-11-08 21.56.00 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object deactivated: SessionBackupStore_USTestApp@XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.56.00 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object deactivated: XContainer.USTestApp@localhost.50 (reported by ObjectRegistry) # 
+# 2006-11-08 21.56.00 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object deactivated: XContainer.XTE@localhost.0 (reported by ObjectRegistry) # 
+# 2006-11-08 21.56.02 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Surveillance failed for process XContainer.USTestApp@localhost.50 # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: ServiceUpdate_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: SessionBackupStore_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: StatusInfoAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: VoiceServerAccess_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: XTransport_USTestApp@XContainer.USTestApp@localhost.50 (reported by Surveillance ) # 
+# 2006-11-08 21.56.16 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object deactivated: NSim.Default@localhost.0 (reported by Surveillance  ) # 
+# 2006-11-08 21.56.29 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Surveillance failed for process NSim.Default@localhost.0 # 
+# 2006-11-08 21.56.29 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: NSim.Default@localhost.0 (reported by Surveillance ) # 
+# 2006-11-08 21.56.29 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: ServiceUpdate_Default@NSim.Default@localhost.0 (reported by Surveillance ) # 
+# 2006-11-08 21.56.29 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: StatusInfoAccess_Default@NSim.Default@localhost.0 (reported by Surveillance ) # 
+# 2006-11-08 21.56.29 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: XTransport_Default@NSim.Default@localhost.0 (reported by Surveillance ) # 
+# 2006-11-08 21.56.30 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object deactivated: OAMServer.Primary (reported by Surveillance  ) # 
+# 2006-11-08 21.57.05 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Registration no longer available # 
+# 2006-11-08 21.57.08 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Surveillance failed for process OAMServer.Primary # 
+# 2006-11-08 21.57.09 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: Framework_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.10 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: GraphDataEventReceiver_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.11 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.12 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: ServiceUpdate_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.14 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: StatusInfoAccess_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.15 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: TraceReceiver_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.16 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: XNodeDatabase_Primary@OAMServer.Primary (reported by Surveillance ) # 
+# 2006-11-08 21.57.17 # com.appium.impl.core.xee.XProcessImpl                                                      # Info      # Object offline: XTransport_Primary@OAMServer.Primary (reported by Surveillance ) # 
